@@ -1,0 +1,6 @@
+framework module version {
+  umbrella header "version.h"
+
+  export *
+  module * { export * }
+}
