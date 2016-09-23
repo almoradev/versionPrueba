@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "logVersion.h"
+#import <version/logVersion.h>
 
 
 //! Project version number for version.

@@ -10,6 +10,6 @@
 
 @interface logVersion : NSObject
 
--(void)logVersion;
+-(void)logVersionCRJP;
 
 @end
